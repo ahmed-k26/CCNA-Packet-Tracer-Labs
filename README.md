@@ -32,8 +32,10 @@ The labs are organized into structured topics to cover key networking concepts:
 ---
 
 ## 🛠️ Requirements & Tools
-* **Simulator**: Cisco Packet Tracer (v8.0 or higher recommended)
-* **Certification**: CCNA 200-301
+
+* **Simulator**: Cisco Packet Tracer (v8.2.1 x64 recommended or higher)
+  * 📥 **Download**: You can download the latest official version for free via [Cisco Skills For All](https://skillsforall.com/course/getting-started-with-cisco-packet-tracer).
+* **Certification Target**: CCNA 200-301
 
 ---
 
