@@ -40,5 +40,5 @@ The labs are organized into structured topics to cover key networking concepts:
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ahmed-k26/CCNA-Packet-Tracer-Labs.git
+   https://github.com/ahmed-k26/CCNA-Packet-Tracer-Labs.git
    
