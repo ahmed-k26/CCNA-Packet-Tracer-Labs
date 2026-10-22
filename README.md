@@ -33,14 +33,19 @@ The labs are organized into structured topics to cover key networking concepts:
 
 ## 🛠️ Requirements & Tools
 
-* **Simulator**: Cisco Packet Tracer (v8.2.1 x64 recommended or higher)
-  * 📥 **Download**: You can download the latest official version for free via [Cisco Skills For All](https://skillsforall.com/course/getting-started-with-cisco-packet-tracer).
+* **Simulator**: Cisco Packet Tracer (v8.2.1 x64 recommended)
+  * 📥 **Direct Download (Google Drive)**: [Download Cisco Packet Tracer 8.2.1](https://drive.google.com/drive/folders/1C2VGgTfDmzGkF5_DxdrAqDqGiAZhx8EN?usp=sharing)
+  * 🌐 **Official NetAcad Link**: [Cisco NetAcad Lab Downloads](https://www.netacad.com/resources/lab-downloads?courseLang=en-US)
 * **Certification Target**: CCNA 200-301
+
+---
+
+> 💡 **Note on Installation & Activation**:
+> The provided Google Drive package includes a patch/crack file that enables running Cisco Packet Tracer in **offline mode** without requiring a Cisco NetAcad account login.
 
 ---
 
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   https://github.com/ahmed-k26/CCNA-Packet-Tracer-Labs.git
-   
+   git clone [https://github.com/ahmed-k26/CCNA-Packet-Tracer-Labs.git](https://github.com/ahmed-k26/CCNA-Packet-Tracer-Labs.git)
